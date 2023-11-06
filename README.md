@@ -8,3 +8,6 @@ This is just random text to represent a change in the file.
 
 This is adding more random text to test a combined add/commit.
 
+##Website Contents
+
+1. index.html
